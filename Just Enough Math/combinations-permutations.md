@@ -27,7 +27,7 @@
 
 ## Combinations
 
-- A Combination is when we arrange a group of items such that the ordering doesn't matter
+- A Combination - is when we arrange a group of items such that the ordering doesn't matter
 
 ## Counting combinations
 
