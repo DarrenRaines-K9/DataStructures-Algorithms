@@ -23,8 +23,8 @@ This procedure of dividing the amount of work for this task is exactly what a co
 
 - Exponents work according to a similar rule. Instead of adding a number repeatedly, however, an exponent tells us to multiply a number by itself repeatedly.
 
-`Ex: 3² = 3 x 3 = 9`
-`4³ = 4 x 4 x 4 = 64`
+  `Ex: 3² = 3 x 3 = 9`
+  `4³ = 4 x 4 x 4 = 64`
 
 `exponent` - a number written over another one indicating how many times the second number is multiplied by itself.
 `Ex: 2² = 2 x 2 = 4`
@@ -58,9 +58,9 @@ This procedure of dividing the amount of work for this task is exactly what a co
 ## Conclusion
 
 - In this lesson:
-- `Exponents` = repeated multiplication
-- `Logarithms` = finding the exponent
-- `Exponential growth` = bad
-- `Logarithmic growth` = good
+  - `Exponents` = repeated multiplication
+  - `Logarithms` = finding the exponent
+  - `Exponential growth` = bad
+  - `Logarithmic growth` = good
 
 These tools help you write efficient code. Use them wisely!

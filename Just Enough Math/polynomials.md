@@ -26,7 +26,7 @@ degree -- the size of the exponent operating on a term. In a polynomial, degree 
 - 3 is the degree
   Many polynomials have terms with exponents. These exponents are called the degree of the term. In term 2x, the degree is just 1. This is because it contains a hidden exponent and can be equivalently written 2x¹. The exponent 1 leaves the original number the same.
 
-`Ex: x² + x`
+  `Ex: x² + x`
 
 - This polynomial contains two terms: x² (degree=2) and x (degree=1). Polynomial degree is the highest degree in the polynomial's terms. In the polynomial above, the polynomial degree is 2 because the term with the highest degree is x².
 
