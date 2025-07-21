@@ -40,11 +40,15 @@ This procedure of dividing the amount of work for this task is exactly what a co
 - Output increases slightly with input? → logarithmic
   `Note: in ATA materials and CS, log n means log₂n unless stated otherwise.`
 
+## I Do
+
 - You’re debugging a program where binary search is done after duplicating files:
 
   - File count doubles every time
   - Even though search is logarithmic, duplication makes it exponential
     `After 64 runs → 2⁶⁴ = 18,446,744,073,709,551,615 files 😱`
+
+## You Do
 
 - Suppose a list of names must be alphabetized.
   - You divide the list until pairs form, then merge pairs into sorted groups:
