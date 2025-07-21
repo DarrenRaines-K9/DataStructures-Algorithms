@@ -54,9 +54,9 @@ This procedure of dividing the amount of work for this task is exactly what a co
 ## Conclusion
 
 - In this lesson:
-- Exponents = repeated multiplication
-- Logarithms = finding the exponent
-- Exponential growth = bad
-- Logarithmic growth = good
+- `Exponents` = repeated multiplication
+- `Logarithms` = finding the exponent
+- `Exponential growth` = bad
+- `Logarithmic growth` = good
 
 These tools help you write efficient code. Use them wisely!
