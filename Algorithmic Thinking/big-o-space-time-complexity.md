@@ -46,7 +46,6 @@
 
 ### The example below illustrates the difference between Peak Memory vs. Cumulative Memory
 
-<pre><code class="language-js">
 ```js
 function processArray(arr, times) {
   for (let i = 0; i < times; i++) {
@@ -59,7 +58,6 @@ function processArray(arr, times) {
   return true;
 }
 ```
-</code></pre>
 
 ### 🧠 Why the space complexity is O(n), not O(n × times)
 
@@ -88,7 +86,7 @@ function reverseInPlace(arr) {
 }
 ```
 
-### Space Complexity: O(1)\*
+### Space Complexity: O(1)
 
 Even though this function operates on an array of size n, the space complexity is O(1) — constant space.
 
