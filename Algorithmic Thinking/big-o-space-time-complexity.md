@@ -72,7 +72,6 @@ function processArray(arr, times) {
 - Also, it's important to know that space complexity excludes the input and output. For example, if a method takes an array and sorts it in place, without allocating extra memory, its space complexity is O(1) — constant space — because it's not using additional memory proportional to the input size.
   Here's a JavaScript example with an explanation that highlights how space complexity excludes input and output, and only considers additional memory used during execution:
 
-<pre><code class="language-js">
 ```js
 function reverseInPlace(arr) {
   let left = 0;
@@ -88,7 +87,6 @@ function reverseInPlace(arr) {
   return arr;
 }
 ```
-</code></pre>
 
 ### Space Complexity: O(1)\*
 
