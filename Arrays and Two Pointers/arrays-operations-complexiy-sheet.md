@@ -29,6 +29,7 @@ Cache-friendly for sequential access patterns
 Storage: O(n) where n is the number of elements
 Operations: Most operations use O(1) additional space
 Dynamic Resizing: May temporarily use O(n) space during resize operations
+
 **_When to Use Arrays_**
 ✅ Good for:
 
