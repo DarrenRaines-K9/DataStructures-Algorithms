@@ -1,6 +1,6 @@
 # Learning Objectives
 
-## Arrays and Two Pointers
+### Arrays and Two Pointers
 
 | Category               | Module | Learning Objective Name                                                                           | Bloom Level          |
 | ---------------------- | ------ | ------------------------------------------------------------------------------------------------- | -------------------- |

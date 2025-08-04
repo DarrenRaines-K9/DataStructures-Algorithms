@@ -1,6 +1,6 @@
 # Learning Objectives
 
-## Algorithmic Thinking
+### Algorithmic Thinking
 
 | Category        | Module | Learning Objective Name                                                                                                  | Bloom Level          |
 | --------------- | ------ | ------------------------------------------------------------------------------------------------------------------------ | -------------------- |
