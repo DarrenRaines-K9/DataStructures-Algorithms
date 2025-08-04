@@ -512,7 +512,9 @@ As Maya finishes training the new hires, she reflects on everything she's learne
 - Inserting in middle: array.splice(index, 0, item)
 - Removing from middle: array.splice(index, count)
 - Searching: array.indexOf(item)
-  **_🎯 Maya's Pro Tips for Array Success_**
+
+**_🎯 Maya's Pro Tips for Array Success_**
+
 - Design for the common case: Most operations should be fast (O(1))
 - Batch slow operations: If you need to do many insertions, consider doing them all at once
 - Use the right tool: Arrays are perfect for ordered collections with frequent end-access
